@@ -1,6 +1,11 @@
 ## Project Overview
 This repository showcases a modern, fully responsive landing page built with **React** and **Tailwind CSS**. The project demonstrates my ability to design, develop, and deploy a professional web application with a focus on user experience, interactivity, and clean code architecture.
 
+## Demo
+
+![Tic Tac Toe Screenshot](/public/images/Wesite.png)
+---
+
 ## Key Skills Demonstrated
 - **Responsive Web Design:** Created layouts that adapt seamlessly to all device sizes using Tailwind CSS utility classes.
 - **React Development:** Built modular, reusable components and managed state and effects for interactivity.
