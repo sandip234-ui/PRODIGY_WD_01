@@ -1,5 +1,3 @@
-# Internship Proposal: Responsive Landing Page Project
-
 ## Project Overview
 This repository showcases a modern, fully responsive landing page built with **React** and **Tailwind CSS**. The project demonstrates my ability to design, develop, and deploy a professional web application with a focus on user experience, interactivity, and clean code architecture.
 
